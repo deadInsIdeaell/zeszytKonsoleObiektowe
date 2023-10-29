@@ -1,4 +1,4 @@
-  body {
+body {
   user-select: none;
   -moz-user-select: none;
   -khtml-user-select: none;
@@ -7,7 +7,7 @@
 }
 
 .u-section-1 {
-  background-image: url("/images/fonfoto.jpg");
+  background-image: url("/zeszytKonsoleObiektowe/images/fonfoto.jpg");
   background-position: 28.23% 1.41%;
   background-size: auto 190%;
 }
